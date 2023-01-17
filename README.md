@@ -1,1 +1,1 @@
-# SejaBestTeste
+# SejaBest Test || Vue 3 + Vite + Tailwindcss
