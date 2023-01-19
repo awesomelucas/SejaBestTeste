@@ -6,9 +6,9 @@ import FormBody from './components/formBody.vue'
 </script>
 
 <template>
-  <section class="bg-orange-200 min-h-screen grid">
-    <pageTitle msg="SejaBest Test"/>
-      <FormBody/>
+  <section class="bg-orange-200 min-h-screen flex flex-col justify-center min-w-full items-center">
+    <pageTitle msg="SejaBest Test" />
+    <FormBody />
   </section>
 </template>
 
