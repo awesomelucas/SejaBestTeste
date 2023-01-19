@@ -10,6 +10,9 @@ export interface IEndereco {
     ddd: string,
     siafi: string
 }
+export interface ICepResponse{
+    data:IEndereco
+}
 
 export const enderecoPadrao: IEndereco={
     cep: '',
@@ -23,3 +26,4 @@ export const enderecoPadrao: IEndereco={
     ddd: '',
     siafi: ''
 }
+
