@@ -7,7 +7,7 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
-## 🔖&nbsp; FeedBack
+### 🔖&nbsp; FeedBack
 
 O **SejaBestTest** foi muito legal de desenvolver e pude ter a primeira experiencia com Vue 3 e Tailwindcss. Pude botar em prática o conhecimento que adquiri em meus estudos de ReactJs, porém tive algumas dificuldades com a sintaxe dos arquivos .vue, depois que fui entendendo como o ciclo de vida do vue funciona consegui dar continuidade no desenvolvimento, mas a falta de pratica com vue acabava me limitando bastante por não ter conhecimento de como seus hooks funcionavam tinha apenas uma idéia do que eu usaria em ReactJs e então procurava na documentação do Vue algo similar.
 
@@ -22,7 +22,7 @@ Agradeço a oportunidade de realizar esse teste.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+### 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [Vite](https://vitejs.dev/)
 ---
 
-## 🗂 Como baixar o projeto
+### 🗂 Como baixar o projeto
 
 ```bash
 
