@@ -19,7 +19,6 @@ Em geral eu me diverti durante o desenvolvimento e tive bastante medo de estar f
 
 Agradeço a oportunidade de realizar esse teste.
 
-
 ---
 
 ### 🚀 Tecnologias utilizadas
